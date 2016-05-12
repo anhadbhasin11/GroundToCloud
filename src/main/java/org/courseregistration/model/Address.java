@@ -1,3 +1,4 @@
+//Yo baby
 package org.courseregistration.model;
 
 import javax.persistence.*;
